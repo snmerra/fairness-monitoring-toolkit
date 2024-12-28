@@ -1,0 +1,18 @@
+# Core Dependencies
+aequitas==0.42.0          # For fairness auditing and bias detection
+pandas==2.2.3             # For data manipulation and analysis
+numpy==2.2.1            # For numerical operations
+matplotlib==3.10.0         # For plotting visualizations
+scikit-learn>=1.0.0       # For machine learning models
+
+# Explainability Tools
+shap==0.41.0              # SHapley Additive Explanations for explainability
+lime==0.2.0.1             # Local Interpretable Model-Agnostic Explanations
+
+# Optional for Advanced Features
+scipy==1.14.1             # For advanced statistical operations (used by Aequitas)
+seaborn==0.12.2           # For enhanced visualizations (optional but useful)
+
+# Miscellaneous
+flask==2.3.2              # If you plan to create a web-based interface in the future
+jupyterlab==4.0.2         # For running scripts in a notebook environment (optional)

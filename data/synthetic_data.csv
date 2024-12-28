@@ -1,0 +1,1001 @@
+gender,race,income,education,label_value,model_prediction,score
+Male,Black,77134,Masters,1,0,510
+Female,Asian,40491,PhD,0,0,343
+Male,White,21341,Bachelors,0,1,840
+Male,White,64623,Bachelors,0,0,391
+Male,White,20338,High School,0,0,564
+Female,White,91431,High School,0,1,519
+Male,Hispanic,32254,PhD,1,1,741
+Male,White,71860,Masters,1,0,700
+Male,Hispanic,31344,PhD,1,1,699
+Female,Hispanic,21750,PhD,1,1,789
+Male,White,74756,PhD,1,0,784
+Male,White,87957,PhD,1,0,769
+Male,Black,78053,Bachelors,0,1,744
+Male,Asian,90855,Masters,0,0,568
+Female,White,35896,Bachelors,1,0,566
+Male,Black,75761,Masters,1,1,353
+Female,Black,82552,High School,0,0,827
+Female,Asian,97454,PhD,0,0,819
+Female,Hispanic,47935,Bachelors,0,0,358
+Male,White,57641,Masters,1,0,339
+Female,Asian,49711,High School,1,0,536
+Male,White,90342,High School,1,1,685
+Female,Black,32182,PhD,0,1,599
+Female,Black,76276,Masters,0,0,694
+Female,Hispanic,39541,Bachelors,1,1,506
+Female,Black,64813,PhD,1,0,635
+Female,Black,57198,Bachelors,0,0,813
+Female,Asian,28820,High School,0,0,477
+Female,White,44070,Bachelors,0,0,695
+Female,White,89768,Bachelors,0,0,670
+Male,Asian,31122,PhD,1,1,617
+Male,Hispanic,93543,Bachelors,0,1,668
+Female,White,61786,PhD,0,0,683
+Female,Black,26737,High School,0,1,361
+Female,White,56062,PhD,1,0,804
+Male,Black,74237,PhD,1,1,538
+Female,Hispanic,71571,Masters,0,0,494
+Male,Asian,45510,Bachelors,0,1,521
+Male,White,39426,High School,0,0,360
+Male,Asian,57265,PhD,1,0,428
+Male,White,37850,High School,1,1,455
+Male,Black,86150,Masters,1,1,677
+Female,Asian,94910,Bachelors,0,0,736
+Female,White,72375,PhD,1,1,506
+Female,Black,55435,Bachelors,0,0,687
+Female,Asian,77132,Masters,0,1,779
+Female,Asian,98945,Masters,0,1,639
+Male,White,22983,High School,1,0,639
+Female,White,40662,PhD,0,1,503
+Female,White,43510,High School,1,1,460
+Male,Black,98187,Masters,1,0,839
+Female,White,60998,Bachelors,0,1,691
+Male,Asian,76846,High School,0,0,833
+Female,Asian,26640,High School,1,0,369
+Male,White,64547,Bachelors,0,0,704
+Female,White,74620,High School,1,0,816
+Female,Hispanic,35317,Bachelors,0,0,419
+Male,Asian,27564,PhD,1,1,516
+Male,Black,47345,Bachelors,1,0,355
+Male,Hispanic,99273,PhD,1,0,665
+Male,White,94859,Bachelors,1,1,803
+Male,White,94038,Masters,0,1,754
+Male,Asian,72393,Masters,0,1,403
+Male,White,86081,PhD,1,0,376
+Male,Black,49430,PhD,1,0,529
+Female,Asian,95532,Masters,0,0,557
+Female,White,47788,PhD,0,1,563
+Male,Asian,68543,Bachelors,0,0,630
+Female,White,33919,Bachelors,0,1,481
+Female,White,89346,Masters,0,0,849
+Female,White,59974,High School,0,1,326
+Female,Black,36371,Bachelors,1,0,575
+Male,Black,65084,PhD,0,0,598
+Female,Asian,49629,High School,0,0,390
+Male,White,71184,High School,1,1,779
+Female,White,81916,Bachelors,0,1,757
+Female,Black,93972,Bachelors,0,0,750
+Female,White,82187,High School,0,0,664
+Male,Black,32984,High School,0,0,650
+Female,White,53039,Masters,0,1,699
+Male,Asian,78606,PhD,1,0,552
+Female,White,30616,Masters,0,0,758
+Male,White,70072,Bachelors,1,0,798
+Female,Hispanic,44574,Masters,1,0,807
+Male,Black,23430,Masters,0,1,603
+Male,White,32676,Masters,1,1,800
+Female,White,30816,Masters,0,0,465
+Male,Hispanic,52733,PhD,1,0,714
+Female,Hispanic,22050,PhD,1,1,761
+Female,Black,53933,High School,0,1,413
+Female,Hispanic,44951,Bachelors,0,0,732
+Female,Asian,52413,Masters,0,1,655
+Female,Hispanic,54801,High School,0,1,506
+Female,Asian,75619,High School,0,0,534
+Female,Black,52913,High School,1,1,741
+Female,Black,60600,PhD,1,1,654
+Female,Black,77775,Masters,1,0,814
+Female,Black,55400,Masters,1,0,507
+Female,Black,24494,Bachelors,1,1,424
+Male,Asian,94691,Masters,1,0,437
+Male,Asian,63001,Masters,1,1,638
+Female,Black,87364,High School,0,0,836
+Female,Hispanic,65028,Bachelors,0,1,367
+Female,White,57573,Masters,1,0,840
+Female,Black,20806,PhD,1,1,682
+Female,Hispanic,76638,Masters,0,1,318
+Female,White,49757,High School,0,1,749
+Female,Black,54636,PhD,0,0,373
+Female,Black,68280,High School,0,0,575
+Male,Asian,44262,Masters,1,1,347
+Female,White,82211,PhD,0,1,510
+Male,White,74842,Bachelors,1,0,839
+Female,Hispanic,76979,Bachelors,1,0,490
+Female,Asian,58197,PhD,1,0,614
+Male,Asian,61844,PhD,0,0,412
+Female,Asian,84754,High School,0,0,469
+Male,Asian,54157,PhD,1,0,767
+Female,White,97129,High School,1,1,313
+Female,White,60042,Masters,1,0,587
+Male,Black,81665,High School,0,1,488
+Female,Black,47376,PhD,1,0,454
+Male,Asian,75554,PhD,0,0,770
+Female,Asian,34199,Masters,1,1,374
+Male,Asian,70948,PhD,1,1,576
+Male,Black,93781,PhD,1,0,642
+Female,Hispanic,92750,Bachelors,0,1,724
+Female,Hispanic,86262,Bachelors,0,1,810
+Male,Black,66600,Masters,1,1,481
+Female,Black,96898,High School,0,1,757
+Female,Black,82483,Bachelors,1,0,363
+Female,Black,38297,High School,0,1,559
+Male,Black,50448,PhD,0,0,492
+Male,Black,46172,Bachelors,0,0,705
+Male,Asian,62874,Masters,1,0,392
+Male,Asian,27657,Masters,0,0,729
+Male,Asian,45425,Masters,0,1,733
+Male,Asian,46685,Bachelors,1,1,703
+Male,Black,44578,High School,1,0,733
+Male,Hispanic,48831,PhD,1,0,411
+Male,White,27906,High School,1,0,674
+Female,Black,81413,High School,0,0,358
+Male,White,74028,PhD,0,1,342
+Female,Hispanic,27287,PhD,0,0,506
+Female,Asian,53660,Bachelors,0,1,595
+Female,Hispanic,95758,Bachelors,0,0,417
+Male,Black,80504,Bachelors,1,0,831
+Male,Asian,79720,Bachelors,0,0,521
+Male,Black,54701,Bachelors,0,0,465
+Male,Asian,37674,PhD,0,1,455
+Female,White,43874,High School,1,1,483
+Male,White,63642,Bachelors,1,1,389
+Male,White,85160,Bachelors,0,0,393
+Male,Hispanic,37602,High School,1,0,312
+Male,Black,45931,Bachelors,1,1,737
+Male,Hispanic,49192,High School,1,1,837
+Female,White,66542,High School,1,0,449
+Male,Black,62520,PhD,1,0,307
+Female,White,84772,Masters,1,1,328
+Male,Hispanic,78762,PhD,1,0,595
+Female,Hispanic,70106,Masters,0,0,639
+Male,Hispanic,45559,Masters,0,1,738
+Male,White,53742,Masters,1,0,443
+Female,Black,89669,Bachelors,0,1,818
+Female,Black,41754,PhD,0,0,344
+Female,White,23972,Masters,1,1,538
+Male,Black,90831,High School,0,0,454
+Female,White,61873,Bachelors,1,1,480
+Male,Black,29903,PhD,1,1,514
+Male,Asian,23020,Masters,1,1,387
+Female,Asian,61755,High School,0,1,555
+Female,Hispanic,65648,PhD,0,0,810
+Male,Asian,29516,PhD,0,0,372
+Male,Asian,22396,Bachelors,0,1,478
+Female,Asian,39129,PhD,1,0,511
+Female,White,21591,Bachelors,1,0,533
+Female,Asian,31303,Masters,0,0,764
+Male,Asian,50561,Bachelors,1,0,522
+Male,Hispanic,91719,High School,1,0,563
+Male,Asian,27314,Bachelors,0,1,506
+Male,Asian,39623,High School,1,1,665
+Male,Black,87675,Bachelors,0,1,575
+Male,Hispanic,85082,PhD,1,1,679
+Female,Hispanic,53130,Masters,0,0,608
+Male,Hispanic,71756,High School,1,0,567
+Male,Hispanic,46292,Bachelors,1,1,363
+Male,Hispanic,89274,Bachelors,0,0,649
+Female,Hispanic,22469,Bachelors,0,0,793
+Male,White,73947,PhD,0,1,822
+Male,Asian,42534,PhD,0,0,397
+Female,Hispanic,83620,High School,1,1,370
+Male,Asian,68874,High School,1,1,663
+Male,Asian,69708,PhD,0,0,575
+Male,White,94553,High School,1,0,349
+Male,Hispanic,88344,Masters,0,1,657
+Male,Black,69138,Masters,0,1,784
+Female,White,74302,PhD,1,0,383
+Female,Black,67638,High School,1,1,595
+Female,Asian,98249,Bachelors,0,1,535
+Male,Asian,22719,Masters,0,1,355
+Male,White,42890,PhD,0,0,659
+Male,White,97236,High School,1,1,409
+Female,Black,56509,PhD,1,0,491
+Male,Hispanic,62534,Bachelors,1,1,392
+Male,Black,38787,Masters,1,0,359
+Female,White,68845,PhD,0,1,338
+Male,Black,77932,PhD,0,0,839
+Female,White,53062,PhD,0,0,348
+Female,Black,95713,Bachelors,0,0,719
+Female,White,80461,PhD,0,1,312
+Male,White,95418,Bachelors,0,1,335
+Male,White,86672,Bachelors,1,1,400
+Male,Hispanic,54832,Bachelors,1,0,385
+Male,Black,51966,Masters,0,1,815
+Male,Black,92545,Masters,0,0,522
+Male,Black,32987,PhD,1,1,637
+Male,White,57311,PhD,1,0,465
+Female,Black,51575,Masters,1,0,682
+Male,Black,83852,High School,1,0,675
+Female,White,21007,Masters,0,1,770
+Male,Asian,90981,Bachelors,0,1,330
+Male,White,96242,Masters,0,1,674
+Male,Black,67517,Bachelors,0,0,310
+Female,White,49257,PhD,0,0,601
+Female,Asian,62207,High School,1,1,395
+Female,White,33281,PhD,0,1,489
+Female,Black,81246,Bachelors,1,1,752
+Male,Asian,21435,Bachelors,0,0,491
+Female,Hispanic,46660,Bachelors,0,0,785
+Male,Black,25084,High School,0,0,565
+Male,Asian,33507,Masters,0,0,723
+Female,Asian,92595,PhD,0,0,427
+Female,Hispanic,65539,PhD,1,1,537
+Female,White,27491,Masters,1,0,654
+Female,White,70192,PhD,1,0,411
+Female,Black,83888,High School,0,0,745
+Female,Hispanic,93609,PhD,0,0,642
+Female,White,29077,Bachelors,1,0,444
+Female,Hispanic,40953,Masters,0,1,364
+Male,White,96919,High School,0,0,546
+Female,Asian,87889,Masters,1,0,789
+Female,White,43821,High School,0,0,738
+Male,Hispanic,57567,Bachelors,1,1,405
+Female,Asian,44860,Masters,0,1,480
+Male,Asian,41195,PhD,1,1,483
+Male,Asian,97475,High School,0,0,525
+Female,Hispanic,41427,Masters,0,1,388
+Male,Black,47083,PhD,1,0,829
+Male,Black,77372,Masters,0,0,670
+Male,Black,64064,Masters,0,1,698
+Male,Hispanic,27813,Masters,1,0,405
+Female,Asian,51598,High School,0,0,570
+Male,Black,47082,PhD,1,0,802
+Female,Hispanic,49241,Bachelors,0,1,824
+Male,Black,64569,High School,0,0,331
+Male,White,31745,High School,0,0,692
+Male,Black,46029,High School,0,1,339
+Male,Black,33025,Bachelors,1,0,517
+Female,Asian,34288,PhD,0,0,381
+Female,Hispanic,26540,PhD,1,1,500
+Male,Asian,88878,PhD,0,0,746
+Male,Asian,61846,Masters,0,0,727
+Female,Asian,95932,Masters,0,0,337
+Male,Asian,37482,Masters,0,0,510
+Male,Asian,43411,Bachelors,1,0,743
+Male,Black,70975,Masters,1,1,626
+Female,Asian,80545,Bachelors,1,1,526
+Female,Asian,98797,PhD,1,1,347
+Female,Hispanic,72307,Masters,0,1,317
+Male,White,23093,Masters,1,0,738
+Male,Black,97258,High School,1,0,486
+Female,Black,42042,Bachelors,0,0,644
+Female,Black,72930,PhD,0,0,523
+Female,Asian,64413,High School,0,0,787
+Female,Asian,53756,High School,0,1,528
+Male,Asian,73268,PhD,1,1,689
+Female,Hispanic,59214,High School,1,0,487
+Male,White,48602,Bachelors,0,0,569
+Female,Asian,73331,Bachelors,0,0,609
+Male,White,68901,Masters,0,1,431
+Female,Hispanic,83416,High School,1,0,850
+Female,Black,52196,Masters,1,0,371
+Female,Asian,25626,High School,0,0,486
+Female,White,27424,Bachelors,0,1,785
+Male,White,32857,Bachelors,1,0,490
+Female,Asian,39982,Bachelors,0,1,721
+Male,Black,96961,High School,0,1,419
+Male,Black,21980,Bachelors,1,1,519
+Male,Black,68290,High School,0,1,352
+Male,Hispanic,46431,Masters,1,1,750
+Female,White,46385,High School,0,1,711
+Male,White,58158,Masters,0,0,536
+Male,White,43019,High School,1,0,705
+Male,Hispanic,38639,Masters,1,0,721
+Female,White,41563,Bachelors,0,1,546
+Female,Hispanic,59341,Masters,1,0,371
+Female,Black,25776,Bachelors,0,1,484
+Female,Asian,56444,Bachelors,0,1,305
+Male,White,88916,Masters,1,1,505
+Male,White,28711,High School,0,0,843
+Female,Black,94318,High School,0,1,686
+Male,Asian,50707,PhD,1,1,375
+Male,Hispanic,59110,High School,1,0,476
+Male,Asian,81788,PhD,0,0,648
+Female,Black,58827,High School,1,1,554
+Female,Black,25655,High School,1,1,607
+Male,Asian,64859,Bachelors,1,0,644
+Female,Hispanic,73625,PhD,1,0,426
+Female,Hispanic,72098,High School,0,0,586
+Female,White,35251,PhD,0,1,786
+Female,Hispanic,20526,Bachelors,0,0,682
+Female,Asian,88760,Bachelors,1,0,705
+Male,Black,67837,PhD,1,0,687
+Female,White,31536,Bachelors,1,1,824
+Male,White,48541,Masters,1,0,575
+Male,Black,99083,Masters,1,0,799
+Female,Hispanic,71027,Bachelors,1,0,636
+Male,Black,54531,Masters,1,0,780
+Male,Hispanic,28712,High School,0,0,572
+Male,Black,85455,PhD,0,1,357
+Female,Asian,94744,High School,1,1,627
+Female,Hispanic,25109,PhD,1,1,408
+Male,Asian,69268,Bachelors,1,0,578
+Female,White,74615,High School,0,1,627
+Female,Black,49759,Bachelors,0,1,614
+Female,White,80112,Bachelors,1,1,773
+Female,White,46589,PhD,1,0,410
+Male,White,50015,PhD,0,0,528
+Male,White,49009,PhD,0,1,796
+Female,Black,82046,High School,0,1,455
+Female,White,46143,Masters,0,0,772
+Male,Black,26154,PhD,1,0,571
+Male,Black,41804,PhD,0,1,301
+Female,Asian,61688,High School,0,0,810
+Male,Hispanic,84288,PhD,1,1,585
+Female,Hispanic,71195,High School,0,0,312
+Female,Black,40581,Bachelors,0,1,797
+Male,Asian,72648,PhD,0,1,537
+Male,Black,50087,PhD,1,0,393
+Female,Black,69930,Bachelors,0,1,637
+Female,Black,52981,Bachelors,1,1,470
+Male,Asian,89298,Bachelors,1,1,766
+Female,Hispanic,66167,PhD,0,0,442
+Male,Asian,95304,Masters,0,0,500
+Female,White,63408,Masters,0,0,479
+Male,Asian,59499,Masters,0,1,663
+Male,Asian,72269,PhD,1,0,778
+Male,Asian,58559,Bachelors,0,1,770
+Female,Asian,94319,PhD,0,1,683
+Female,Hispanic,68787,Bachelors,0,0,716
+Male,White,55488,PhD,1,0,607
+Female,Hispanic,94441,PhD,0,1,666
+Male,Hispanic,94663,Bachelors,0,1,300
+Male,Asian,42431,Masters,1,0,343
+Female,Black,81681,Bachelors,1,0,397
+Female,Black,83483,High School,0,0,564
+Male,Hispanic,69153,High School,0,1,439
+Female,Hispanic,26368,Bachelors,0,1,780
+Female,Asian,47424,PhD,0,1,536
+Male,Hispanic,65004,High School,0,1,371
+Male,Asian,76985,High School,1,1,489
+Female,Black,70069,PhD,1,0,567
+Male,Black,72326,PhD,0,0,620
+Male,White,43398,Masters,0,1,406
+Female,Black,70861,PhD,1,1,531
+Male,Hispanic,95897,Bachelors,0,0,341
+Male,Black,88577,Bachelors,0,0,438
+Female,Asian,85641,Masters,0,0,572
+Female,Black,29078,High School,0,0,780
+Male,White,45003,High School,0,1,715
+Male,Black,82768,PhD,1,0,805
+Female,Asian,71047,Bachelors,0,1,723
+Female,Asian,91626,High School,0,0,706
+Female,Hispanic,77660,Masters,0,0,689
+Female,Black,69786,Masters,1,0,641
+Male,Asian,21925,Bachelors,1,1,792
+Female,White,46015,Masters,1,1,491
+Female,Hispanic,53320,Masters,1,0,798
+Male,White,84881,Bachelors,0,1,532
+Female,Black,46289,PhD,1,1,526
+Male,Black,23389,PhD,0,0,670
+Female,Black,45683,Masters,0,0,438
+Female,Hispanic,33629,PhD,1,1,448
+Female,Asian,81550,PhD,1,1,414
+Male,Hispanic,44826,Masters,1,1,749
+Male,White,46630,PhD,1,0,362
+Female,Hispanic,66163,Masters,1,0,403
+Male,White,86435,High School,0,1,572
+Male,Hispanic,31653,Bachelors,1,0,305
+Male,Asian,47961,Bachelors,1,0,446
+Male,White,94137,PhD,1,1,483
+Male,Black,53662,PhD,0,1,327
+Male,Black,76446,PhD,1,0,849
+Female,Hispanic,41288,Bachelors,0,0,418
+Female,Black,56877,High School,1,1,592
+Male,White,35313,High School,1,0,670
+Female,Black,92715,Bachelors,0,0,543
+Female,Asian,30326,High School,1,1,517
+Female,Asian,21560,Bachelors,0,1,476
+Female,Hispanic,99148,High School,0,0,598
+Male,White,46745,Masters,0,0,357
+Female,Asian,51890,Masters,1,0,568
+Female,Asian,40022,Bachelors,1,1,607
+Male,White,72579,High School,1,0,587
+Male,Black,90316,PhD,0,0,404
+Female,Black,48380,High School,1,1,527
+Female,Hispanic,22356,Masters,0,1,546
+Female,Black,90326,Masters,1,0,793
+Female,White,40049,High School,0,1,382
+Female,Asian,95717,High School,0,1,485
+Female,Black,36082,PhD,0,0,551
+Male,Hispanic,20661,PhD,1,1,654
+Female,Black,57412,High School,0,1,509
+Female,White,22920,High School,0,0,746
+Male,Hispanic,80315,High School,0,1,759
+Male,Black,99561,High School,0,0,771
+Male,Hispanic,28946,Bachelors,0,0,669
+Male,White,65500,High School,0,1,791
+Female,Asian,36309,PhD,1,1,436
+Female,White,75230,Masters,1,1,666
+Female,White,50027,Bachelors,0,0,483
+Female,White,92541,High School,1,1,586
+Female,White,79321,Masters,1,0,771
+Female,Asian,20956,Bachelors,0,1,674
+Male,Asian,94131,Masters,0,1,836
+Female,Hispanic,67908,High School,0,1,810
+Male,Black,98339,High School,1,0,549
+Male,Asian,45963,PhD,0,1,809
+Female,Asian,59443,High School,1,1,372
+Male,Black,59063,High School,0,0,581
+Female,Asian,24703,Bachelors,1,0,659
+Male,White,85128,PhD,0,1,309
+Female,White,92099,Bachelors,0,1,510
+Male,Black,45849,Masters,1,1,451
+Female,Hispanic,51860,High School,1,0,304
+Female,Hispanic,51585,Masters,1,0,494
+Female,Black,42015,Bachelors,1,0,582
+Female,Black,97539,High School,1,0,763
+Female,White,63585,High School,1,1,412
+Male,Hispanic,46958,Bachelors,0,0,570
+Male,Asian,46017,Bachelors,1,0,462
+Male,White,96707,Bachelors,0,0,759
+Female,Black,65350,Bachelors,0,1,404
+Male,Hispanic,32201,Bachelors,1,1,581
+Female,Asian,49426,High School,0,0,461
+Female,Asian,37778,Bachelors,1,0,650
+Male,White,65241,High School,1,1,733
+Male,Hispanic,62229,High School,0,1,439
+Female,Hispanic,68364,Bachelors,0,1,770
+Male,Black,77056,Bachelors,1,1,431
+Female,Hispanic,47490,PhD,1,1,386
+Female,Hispanic,39975,High School,0,1,482
+Female,White,46723,Bachelors,0,1,667
+Female,Hispanic,43279,Bachelors,0,1,428
+Female,Asian,98301,Bachelors,0,0,545
+Male,White,31561,PhD,1,0,677
+Male,White,86061,PhD,1,0,448
+Female,Black,69153,Masters,1,0,732
+Female,Hispanic,53142,High School,1,0,768
+Male,Black,46916,Masters,0,0,745
+Male,Asian,84324,Bachelors,0,1,780
+Female,White,64965,PhD,1,1,593
+Male,White,24648,PhD,1,0,442
+Female,White,55133,Masters,1,0,549
+Male,Asian,70677,PhD,1,1,601
+Female,Asian,90135,Bachelors,1,1,324
+Male,Black,55046,PhD,1,1,369
+Female,Black,67064,Masters,1,0,411
+Male,Black,89350,Bachelors,1,1,663
+Male,Hispanic,65893,Masters,1,0,602
+Female,White,81272,PhD,0,0,770
+Male,White,87649,Masters,1,1,390
+Female,Black,84674,Masters,0,1,829
+Male,White,33760,High School,0,0,491
+Female,Black,41927,PhD,1,1,541
+Male,Hispanic,81367,PhD,1,1,437
+Female,Hispanic,32588,Masters,0,0,644
+Male,Asian,72233,High School,0,1,479
+Female,Hispanic,64738,PhD,1,0,802
+Male,Black,53397,Bachelors,0,0,502
+Female,Hispanic,96367,Masters,1,1,491
+Female,Asian,91260,PhD,1,0,304
+Female,White,96619,Bachelors,1,0,536
+Male,Black,39816,PhD,0,1,610
+Female,White,62240,Bachelors,0,1,848
+Male,Asian,26276,Masters,1,1,355
+Female,Asian,99530,PhD,0,0,742
+Male,Asian,43499,PhD,0,0,536
+Female,White,91635,High School,0,1,496
+Male,White,55946,Masters,0,0,813
+Male,White,75204,Bachelors,0,1,748
+Female,White,71886,PhD,0,1,659
+Male,Asian,91652,PhD,0,0,329
+Male,Asian,35563,Bachelors,1,1,407
+Female,Black,29847,Masters,0,0,744
+Male,Black,46155,High School,0,0,737
+Male,White,99671,High School,0,1,756
+Male,Hispanic,87278,PhD,0,0,794
+Female,Hispanic,38309,Bachelors,0,1,546
+Male,Asian,20619,PhD,0,0,842
+Female,Asian,70108,Bachelors,0,0,738
+Male,Asian,54707,High School,0,0,577
+Male,Black,40337,Masters,1,1,410
+Male,Black,86504,Bachelors,0,0,684
+Female,Asian,67614,High School,0,1,490
+Male,Asian,20281,PhD,0,0,789
+Male,Asian,47420,Bachelors,0,0,725
+Female,Hispanic,59030,Masters,1,1,704
+Male,Black,21058,PhD,1,1,634
+Female,Hispanic,96260,PhD,1,1,508
+Female,Hispanic,48404,High School,1,1,321
+Male,Asian,49856,Bachelors,1,1,507
+Female,Asian,29200,PhD,1,0,307
+Male,White,84178,Masters,1,0,828
+Female,White,53997,Bachelors,1,1,465
+Female,Hispanic,45611,Masters,1,0,795
+Male,Black,61235,PhD,1,0,728
+Female,Asian,55057,Masters,1,0,462
+Female,Asian,21239,High School,1,1,665
+Female,Hispanic,85661,Masters,1,0,825
+Female,White,65272,Bachelors,1,0,538
+Female,Black,81212,Masters,1,0,371
+Male,White,35398,Masters,1,1,744
+Female,White,76503,High School,0,0,808
+Male,White,26638,Masters,1,0,568
+Female,White,26570,Masters,0,1,714
+Male,Asian,88785,PhD,1,1,544
+Male,Asian,29110,PhD,1,0,359
+Female,White,99141,Bachelors,0,0,305
+Female,Black,32115,PhD,1,1,706
+Female,Hispanic,59062,PhD,0,1,516
+Male,Black,42911,PhD,0,1,325
+Female,Black,52556,PhD,0,1,304
+Male,Black,98131,High School,1,1,831
+Male,White,21969,PhD,1,1,689
+Male,Asian,63753,High School,1,1,747
+Female,Black,24470,High School,0,0,445
+Female,White,30225,PhD,0,1,687
+Male,Black,43196,Masters,1,1,548
+Male,Black,33669,High School,1,0,825
+Female,White,57380,Masters,1,1,761
+Male,Asian,68320,Masters,1,1,312
+Female,Asian,67414,PhD,1,0,683
+Male,Hispanic,35577,Bachelors,0,1,698
+Female,White,75409,PhD,0,0,318
+Male,Hispanic,48625,Bachelors,0,0,790
+Female,Hispanic,44089,Bachelors,1,0,718
+Male,Hispanic,56487,PhD,0,0,636
+Female,Asian,85838,PhD,0,1,718
+Female,White,70138,Bachelors,0,0,421
+Male,Hispanic,62823,PhD,0,0,731
+Male,White,57208,Bachelors,0,1,343
+Female,White,74061,Masters,1,0,616
+Male,Asian,50659,PhD,0,0,680
+Female,Hispanic,51890,Masters,1,0,444
+Male,Hispanic,99134,High School,1,0,626
+Female,White,67055,Masters,1,1,662
+Female,Black,39508,Masters,1,0,349
+Female,Asian,62287,Bachelors,1,1,364
+Female,Asian,98916,Masters,0,1,654
+Female,Asian,46984,PhD,0,0,463
+Female,Asian,28125,Bachelors,1,0,440
+Male,Hispanic,56059,High School,1,0,427
+Male,Hispanic,89569,PhD,1,0,697
+Male,Black,37087,High School,0,1,762
+Female,Asian,25704,Masters,1,1,486
+Female,Asian,80576,PhD,0,1,489
+Female,White,93384,PhD,1,0,687
+Female,Hispanic,92460,High School,0,1,728
+Male,Asian,47208,PhD,1,0,583
+Male,Black,86024,PhD,0,0,536
+Female,Black,59882,PhD,1,0,493
+Male,Hispanic,45923,Masters,0,0,586
+Male,Black,49165,High School,0,0,435
+Female,Black,87203,PhD,0,1,470
+Male,Hispanic,24114,Bachelors,0,1,458
+Female,Asian,84965,Bachelors,0,0,500
+Male,Asian,56321,Bachelors,0,1,786
+Female,Black,93297,Bachelors,0,0,803
+Female,Black,45426,Masters,1,0,670
+Female,Asian,37772,PhD,1,0,402
+Female,Hispanic,23712,High School,1,1,424
+Male,Black,21367,PhD,1,0,612
+Female,White,71924,Masters,1,0,757
+Female,Hispanic,23726,Bachelors,0,1,529
+Female,Black,47723,Masters,0,1,496
+Male,Black,29108,PhD,0,1,722
+Female,White,97714,High School,0,0,470
+Male,White,55643,Masters,0,0,681
+Female,Asian,51324,High School,1,1,472
+Male,Hispanic,28927,Masters,1,0,752
+Male,Hispanic,42443,High School,1,1,649
+Female,Asian,99973,High School,1,1,793
+Male,Hispanic,83449,Bachelors,0,0,303
+Female,Hispanic,96743,High School,0,0,392
+Female,Hispanic,80233,Bachelors,0,1,305
+Female,Hispanic,45537,PhD,1,1,587
+Male,Hispanic,97576,PhD,0,1,445
+Male,White,42612,Bachelors,1,1,723
+Female,Hispanic,26471,Bachelors,0,0,756
+Female,White,55631,Masters,0,1,501
+Male,Hispanic,51348,Masters,1,1,511
+Female,Asian,84732,Masters,0,1,305
+Female,Black,21177,PhD,0,0,675
+Female,White,24760,Masters,1,0,746
+Male,Hispanic,52779,High School,0,1,405
+Male,Asian,41636,High School,1,0,700
+Male,Black,73551,Masters,0,0,395
+Female,White,31556,High School,0,0,687
+Female,Black,47598,PhD,0,1,751
+Female,Asian,31563,High School,0,1,715
+Male,White,66819,PhD,0,0,803
+Female,Black,93770,Bachelors,0,1,753
+Female,Hispanic,46966,Bachelors,0,1,590
+Female,White,79889,Bachelors,0,0,833
+Female,Black,46987,Bachelors,1,0,492
+Male,Asian,98714,High School,1,1,449
+Male,Asian,78348,Masters,0,0,814
+Female,White,44596,High School,0,1,692
+Male,Black,53174,PhD,1,1,615
+Male,White,84106,High School,0,0,375
+Female,White,89967,High School,0,1,569
+Female,Black,79182,PhD,1,1,524
+Male,Black,59310,Bachelors,0,0,829
+Female,Hispanic,76088,Bachelors,0,0,412
+Male,Black,28906,Bachelors,1,0,550
+Female,Asian,56914,Masters,0,1,532
+Male,White,65379,PhD,0,0,382
+Female,White,98612,PhD,1,0,424
+Male,Asian,57650,High School,0,0,474
+Male,Black,66881,Masters,1,0,368
+Male,Asian,66413,Bachelors,0,1,346
+Female,Asian,26012,Masters,0,1,555
+Male,Hispanic,70115,PhD,1,0,329
+Male,Asian,27151,PhD,1,1,580
+Female,White,77716,High School,0,0,536
+Female,Asian,56378,High School,1,0,547
+Male,White,62652,PhD,1,1,667
+Male,White,92430,Bachelors,0,1,794
+Female,White,33467,Bachelors,0,0,324
+Female,Black,51010,Masters,0,0,789
+Female,Hispanic,74691,PhD,1,1,793
+Female,White,84157,PhD,1,0,613
+Female,White,32289,Bachelors,1,1,674
+Male,Black,64976,Bachelors,1,0,324
+Female,White,63596,PhD,0,0,633
+Male,Asian,43171,High School,1,1,654
+Male,Asian,64139,PhD,0,1,415
+Male,Hispanic,68713,PhD,1,1,347
+Female,White,49734,Bachelors,0,1,398
+Male,Black,92588,Bachelors,0,1,758
+Male,Asian,83646,High School,0,1,822
+Female,Black,23654,High School,1,1,704
+Male,Black,38743,Masters,0,0,513
+Male,Asian,68368,PhD,0,0,802
+Female,Black,94172,Bachelors,1,0,747
+Male,Asian,26441,High School,0,1,557
+Male,Black,44611,Masters,1,1,420
+Male,Asian,32149,Masters,1,1,353
+Female,White,79189,Bachelors,0,0,630
+Female,Hispanic,41675,Bachelors,0,1,540
+Female,Asian,91031,Masters,1,1,829
+Male,Asian,62668,High School,0,0,782
+Male,Hispanic,33673,Masters,1,1,486
+Female,Asian,96666,PhD,1,0,561
+Male,Asian,85429,PhD,1,0,663
+Male,Black,43669,Bachelors,0,1,790
+Female,Hispanic,54068,High School,1,1,730
+Female,White,29435,High School,0,1,538
+Male,Asian,72249,PhD,0,0,603
+Male,Hispanic,57384,Masters,0,0,597
+Male,Black,96153,Bachelors,0,0,375
+Female,White,95388,Masters,1,1,632
+Female,Hispanic,51401,Masters,0,1,773
+Female,White,91831,Masters,1,1,582
+Female,White,54084,High School,1,1,371
+Male,White,75826,PhD,0,0,562
+Female,Asian,56451,High School,1,0,311
+Female,Asian,27227,PhD,1,0,440
+Female,Black,51910,Bachelors,0,0,316
+Female,Black,56041,Bachelors,1,1,362
+Female,Hispanic,85681,Masters,1,1,552
+Male,Black,85481,PhD,1,1,764
+Male,White,88576,PhD,1,0,675
+Female,White,84174,PhD,0,0,819
+Male,Asian,46160,Masters,1,1,389
+Female,White,37633,Masters,1,1,474
+Female,Hispanic,37014,Bachelors,1,0,375
+Male,White,69104,High School,1,1,699
+Male,White,61621,PhD,0,0,370
+Female,Hispanic,97231,PhD,1,0,479
+Female,Black,88388,High School,0,0,423
+Female,Black,36014,PhD,1,1,680
+Male,Hispanic,53755,Masters,0,1,592
+Female,Asian,60390,Masters,0,0,494
+Female,White,43711,PhD,0,1,527
+Female,Hispanic,77993,Masters,0,0,730
+Male,White,94696,Masters,0,0,735
+Female,Asian,47213,PhD,1,0,760
+Female,White,77784,Bachelors,1,0,320
+Male,Hispanic,27421,High School,1,1,363
+Female,White,37727,Masters,0,0,464
+Female,Black,24358,Bachelors,1,0,326
+Male,Asian,85108,Masters,0,1,610
+Female,Asian,52117,Masters,0,0,584
+Male,Asian,51910,High School,1,0,580
+Male,Hispanic,75754,Masters,1,1,463
+Female,Asian,82438,High School,0,1,523
+Female,Black,49371,High School,0,1,445
+Female,Hispanic,71501,High School,1,0,329
+Female,Black,80946,Bachelors,1,1,344
+Male,White,58467,PhD,1,1,770
+Female,White,37625,Bachelors,1,0,333
+Male,White,53893,PhD,0,0,726
+Female,White,96329,PhD,1,0,520
+Female,Black,51007,High School,1,0,833
+Female,Hispanic,59532,Masters,1,0,666
+Male,Hispanic,74253,High School,0,1,849
+Female,Asian,32323,Masters,0,1,415
+Female,Black,93379,PhD,0,1,538
+Female,White,34210,High School,0,0,634
+Female,Black,36456,Masters,1,0,740
+Male,Asian,51367,Bachelors,0,0,447
+Female,Asian,74624,Masters,1,1,308
+Male,Black,30106,High School,1,1,587
+Male,Black,88008,Bachelors,1,0,687
+Male,Black,92240,Masters,1,1,349
+Male,Hispanic,84315,Masters,0,0,816
+Male,White,89249,Masters,0,1,577
+Male,Black,90587,Masters,0,1,599
+Female,Black,30756,Masters,1,1,434
+Male,Black,88011,Bachelors,1,0,446
+Male,Asian,56378,PhD,1,1,789
+Male,Asian,24255,Bachelors,1,1,777
+Female,Hispanic,34484,Bachelors,1,0,458
+Female,White,76549,Bachelors,0,1,683
+Male,Hispanic,54503,PhD,1,0,462
+Female,White,93794,High School,0,0,740
+Male,Asian,65113,PhD,1,0,488
+Male,Asian,94069,Bachelors,1,0,714
+Female,Asian,25249,Masters,0,0,638
+Male,Hispanic,39201,Masters,0,1,480
+Female,Black,78576,Bachelors,1,0,587
+Female,Black,29686,Masters,1,0,486
+Male,Asian,73363,Bachelors,1,0,437
+Male,Black,20661,Masters,1,0,429
+Female,Black,64843,PhD,0,1,493
+Male,Hispanic,80963,High School,1,0,615
+Male,White,62828,High School,0,1,443
+Male,Asian,68604,PhD,1,0,315
+Female,Asian,30526,PhD,0,1,601
+Female,Hispanic,88910,Bachelors,0,0,722
+Male,Hispanic,45592,Bachelors,1,0,544
+Female,Black,48982,Bachelors,0,1,406
+Female,Asian,20207,Masters,1,0,387
+Female,White,88619,Bachelors,0,1,428
+Female,Hispanic,49328,PhD,1,0,640
+Female,White,66479,High School,0,1,303
+Male,White,40103,Masters,1,0,626
+Male,Asian,59891,Bachelors,1,0,709
+Male,Asian,30754,Masters,0,1,605
+Female,Hispanic,92982,Masters,0,0,524
+Female,Asian,75922,Bachelors,0,0,647
+Male,Asian,68231,Masters,0,0,620
+Female,Asian,49301,High School,1,0,480
+Male,White,82711,PhD,0,0,685
+Male,Hispanic,61323,PhD,1,0,407
+Male,Black,38752,High School,0,1,830
+Female,White,33395,Masters,1,1,709
+Female,Asian,76273,Bachelors,1,1,595
+Male,White,24895,Masters,1,0,470
+Male,Asian,96559,High School,1,1,630
+Male,Asian,30699,Masters,0,0,792
+Male,White,85061,PhD,0,0,494
+Female,Hispanic,29715,Masters,1,0,311
+Female,Asian,39169,High School,0,0,494
+Male,Hispanic,36163,PhD,0,1,789
+Male,Black,25782,Masters,1,0,481
+Female,Asian,55585,Masters,0,1,615
+Female,Hispanic,50682,PhD,0,0,329
+Male,Hispanic,67864,Bachelors,0,1,395
+Male,Black,75114,PhD,1,1,680
+Male,Hispanic,58067,Bachelors,0,1,743
+Female,Hispanic,62685,High School,1,1,597
+Female,Black,38073,High School,0,1,660
+Female,Asian,56035,PhD,0,1,673
+Male,Hispanic,84977,PhD,0,0,602
+Male,Hispanic,85450,High School,1,1,720
+Female,Hispanic,30382,Bachelors,1,0,545
+Female,White,24437,High School,0,1,536
+Male,Black,90971,PhD,1,0,833
+Female,White,84612,High School,0,1,484
+Female,Black,81929,PhD,1,1,767
+Male,Asian,32329,PhD,1,0,662
+Female,Asian,45169,High School,0,1,582
+Male,Hispanic,54594,Bachelors,0,1,635
+Male,Black,96957,Masters,0,1,461
+Male,Asian,80631,High School,0,0,459
+Male,Black,65033,Masters,1,1,773
+Male,Asian,83133,High School,1,0,621
+Male,White,93165,Masters,1,1,311
+Male,Asian,93861,Bachelors,0,1,723
+Female,White,72290,Bachelors,0,0,372
+Male,Asian,51750,High School,1,1,500
+Male,Hispanic,60461,PhD,0,1,821
+Female,White,93800,Masters,1,0,804
+Female,Asian,98222,PhD,1,1,338
+Female,Hispanic,44226,PhD,1,0,359
+Male,White,26721,PhD,1,0,620
+Female,Hispanic,76154,Bachelors,1,0,734
+Male,Black,40609,High School,0,1,707
+Male,Black,72130,High School,0,0,685
+Male,White,92909,Bachelors,0,0,377
+Male,Asian,75249,Bachelors,1,1,493
+Female,White,68895,High School,1,0,584
+Female,Hispanic,25656,PhD,1,1,826
+Male,Asian,94520,Masters,1,1,823
+Male,Black,83740,Masters,0,1,455
+Male,Asian,84309,Masters,0,1,639
+Female,Black,49984,PhD,1,0,424
+Male,Asian,93822,High School,1,0,579
+Male,Asian,25901,Bachelors,1,0,427
+Female,Asian,51552,High School,0,0,613
+Female,Hispanic,51055,PhD,0,0,631
+Male,Hispanic,57685,Bachelors,0,1,449
+Female,White,93965,PhD,1,0,753
+Female,White,34716,Masters,1,0,335
+Male,Black,31138,Masters,0,0,719
+Female,Hispanic,55298,PhD,1,1,321
+Male,Black,71112,Bachelors,0,1,505
+Female,White,43429,Bachelors,1,0,655
+Male,Black,70200,High School,0,1,739
+Male,White,91308,Masters,1,0,395
+Male,Hispanic,68244,High School,0,0,463
+Female,Asian,37347,High School,0,1,447
+Male,Hispanic,36920,PhD,0,1,829
+Female,Black,51822,PhD,0,0,593
+Male,Black,66659,High School,0,0,494
+Male,Hispanic,60108,Masters,0,1,779
+Female,Hispanic,27967,PhD,1,0,422
+Male,White,31871,High School,1,1,699
+Male,Black,97452,High School,1,0,751
+Female,Black,94270,High School,0,1,403
+Male,Hispanic,53613,High School,0,0,761
+Male,Asian,48179,High School,1,0,695
+Male,Black,72188,High School,0,1,636
+Male,Asian,75099,PhD,0,0,441
+Female,Hispanic,55262,Masters,0,0,616
+Female,Hispanic,98213,High School,0,1,826
+Male,White,38268,Bachelors,0,0,700
+Female,Black,97866,PhD,1,0,609
+Male,Asian,80545,PhD,1,0,794
+Female,White,92146,High School,1,1,408
+Male,Black,91966,PhD,1,1,671
+Male,White,59922,High School,1,1,505
+Male,Hispanic,99364,Masters,0,0,342
+Male,Black,62913,Masters,0,0,544
+Male,White,75677,PhD,0,0,586
+Male,White,69841,PhD,0,0,654
+Female,Asian,66332,Bachelors,1,1,775
+Male,White,45032,PhD,1,0,382
+Female,Black,57846,Bachelors,1,0,409
+Male,Black,79474,Masters,0,0,489
+Female,Asian,64936,Masters,1,1,550
+Female,Black,49794,High School,0,0,590
+Female,Hispanic,81588,Masters,1,0,500
+Male,Black,90984,Bachelors,1,0,625
+Male,Black,70331,PhD,0,0,810
+Female,White,48141,High School,0,0,708
+Male,White,29074,Bachelors,1,1,807
+Female,Black,26406,PhD,1,0,371
+Male,Asian,43291,High School,0,0,546
+Female,White,61568,Masters,1,0,643
+Female,Asian,66851,Bachelors,1,0,353
+Male,Black,74823,PhD,0,0,827
+Female,Black,43312,High School,1,0,831
+Male,Hispanic,63108,High School,0,0,492
+Female,White,86918,Masters,1,0,357
+Female,Black,54171,PhD,0,0,736
+Male,Hispanic,61779,Masters,1,0,410
+Male,White,88828,Masters,0,1,428
+Male,Black,32411,PhD,1,1,625
+Female,Black,77009,PhD,0,1,307
+Male,White,35422,PhD,1,1,328
+Female,White,62468,Bachelors,1,0,411
+Female,White,52371,PhD,1,1,430
+Male,Black,77022,High School,1,1,487
+Male,Black,91229,Masters,1,0,774
+Female,Hispanic,71196,Bachelors,1,1,663
+Female,Asian,46715,PhD,1,1,503
+Male,White,47605,Bachelors,1,0,511
+Male,Black,51174,PhD,1,0,575
+Male,Black,29956,Bachelors,0,0,372
+Male,White,96373,Masters,0,1,542
+Male,Asian,89252,Masters,1,1,401
+Female,White,81949,High School,0,0,470
+Female,Asian,82646,High School,1,0,487
+Female,Black,90017,PhD,1,1,740
+Female,Asian,83037,Masters,0,0,385
+Male,Hispanic,26548,Bachelors,1,1,775
+Male,Black,93294,Bachelors,1,0,351
+Male,Hispanic,43177,Bachelors,0,0,410
+Female,White,44022,High School,0,1,342
+Female,White,25542,Bachelors,1,0,510
+Male,White,80428,High School,0,0,499
+Male,Asian,42740,High School,0,0,325
+Female,Black,79353,PhD,1,1,598
+Female,White,76532,Bachelors,0,0,376
+Male,White,36052,Bachelors,0,0,436
+Male,Black,67076,Masters,1,0,319
+Female,White,73420,PhD,0,0,739
+Male,Hispanic,20671,Masters,0,0,510
+Male,Black,20163,PhD,1,0,850
+Male,Black,61424,Bachelors,1,1,734
+Female,Black,73744,High School,1,1,506
+Female,Hispanic,90331,High School,0,0,738
+Female,Black,30634,High School,1,1,341
+Female,Hispanic,24798,High School,1,1,710
+Female,Black,42420,High School,0,0,822
+Female,Asian,49300,Masters,1,1,726
+Female,White,30749,PhD,1,1,574
+Male,Asian,45121,Bachelors,1,1,747
+Male,White,57487,Masters,1,1,668
+Male,Hispanic,53361,PhD,0,1,519
+Male,Asian,41223,High School,1,1,531
+Male,Black,92930,PhD,1,1,627
+Male,White,34056,PhD,0,1,742
+Male,White,48380,High School,1,0,351
+Female,Asian,46035,High School,0,0,675
+Female,Hispanic,50620,High School,0,1,562
+Male,Asian,39877,Bachelors,0,1,566
+Male,Hispanic,75316,High School,1,0,658
+Female,Hispanic,84041,Bachelors,0,1,616
+Male,White,73352,High School,0,1,623
+Male,Asian,50911,Bachelors,0,0,720
+Female,Asian,52784,PhD,1,0,345
+Male,Hispanic,23191,Masters,1,0,568
+Female,Asian,53160,PhD,1,1,680
+Male,Black,84641,PhD,1,1,417
+Female,Black,69723,High School,1,0,415
+Female,Asian,23631,Bachelors,1,0,559
+Female,Asian,26172,Masters,1,1,374
+Male,Hispanic,62080,High School,0,0,779
+Female,Black,40281,High School,0,1,604
+Male,Black,48671,High School,0,1,306
+Male,White,71431,PhD,0,0,665
+Male,Hispanic,48602,Bachelors,1,0,822
+Male,White,71399,Bachelors,0,1,647
+Female,Black,43472,Masters,0,0,737
+Female,Hispanic,69230,Bachelors,0,0,514
+Male,Asian,93616,Bachelors,0,0,728
+Male,Hispanic,27099,High School,1,0,797
+Female,Asian,45431,High School,1,1,839
+Male,Asian,76492,PhD,1,1,666
+Female,Hispanic,67684,High School,0,1,612
+Male,Asian,50111,High School,1,1,837
+Male,White,83936,High School,0,0,353
+Female,Black,42614,High School,1,0,840
+Male,Asian,61991,PhD,1,1,766
+Female,White,90476,High School,1,1,463
+Male,Asian,80920,Masters,1,0,633
+Male,Black,83530,Masters,1,1,846
+Male,White,56224,Masters,0,1,647
+Female,Black,27788,Masters,1,0,572
+Male,Black,48082,High School,0,1,713
+Male,White,96816,Masters,0,0,799
+Male,White,36531,High School,0,0,392
+Male,White,64857,PhD,0,1,378
+Female,Hispanic,30142,Masters,0,0,516
+Female,White,68355,Bachelors,1,1,657
+Male,White,29866,Masters,1,0,806
+Female,White,90067,Masters,1,1,480
+Male,White,84027,High School,1,1,545
+Male,Asian,77906,Masters,0,1,543
+Male,Hispanic,48138,Bachelors,1,0,805
+Female,Black,49956,High School,1,0,721
+Female,White,96295,High School,0,1,619
+Female,Asian,25439,PhD,0,0,386
+Female,Asian,67241,PhD,1,1,516
+Female,Asian,62533,Masters,1,1,789
+Female,Black,48270,PhD,0,0,818
+Female,White,98815,PhD,1,1,577
+Female,Hispanic,59279,PhD,1,0,468
+Female,Hispanic,43888,High School,1,1,629
+Male,Asian,37630,High School,1,0,740
+Female,Black,81063,High School,0,1,690
+Female,Black,55144,PhD,0,1,795
+Female,Black,72161,High School,0,0,680
+Female,Hispanic,97360,PhD,1,1,605
+Female,Asian,70979,High School,1,1,812
+Female,White,26979,High School,1,0,487
+Female,Hispanic,46189,Bachelors,1,1,815
+Female,Asian,62600,Masters,1,0,726
+Female,Asian,79560,PhD,0,1,801
+Female,White,98040,Bachelors,1,0,559
+Female,White,81558,High School,1,1,812
+Male,White,26910,PhD,0,1,370
+Male,Black,77713,High School,1,1,777
+Female,White,66857,Masters,0,0,477
+Female,Asian,54964,Bachelors,0,0,756
+Male,White,45227,Masters,0,0,488
