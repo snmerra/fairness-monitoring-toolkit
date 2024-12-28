@@ -42,7 +42,6 @@ This project evaluates model performance using fairness metrics such as True Pos
    ```bash
    python3 -m venv venv
    source venv/bin/activate  # On Linux/Mac
-   venv\Scriptsctivate     # On Windows
    ```
 
 3. Install dependencies:
