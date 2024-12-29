@@ -1,6 +1,6 @@
 # Fairness Monitoring Toolkit
 
-This is a learning toolkit for auditing and monitoring fairness in machine learning models.
+This is a learning toolkit for auditing and monitoring fairness in machine learning data models.
 This project evaluates model performance using fairness metrics such as True Positive Rate (TPR), False Positive Rate (FPR), Precision, and Disparate Impact, while supporting group and intersectional analyses for sensitive attributes like gender and race.
 
 ---
